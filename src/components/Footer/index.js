@@ -5,7 +5,7 @@ import MasterChef from '../../assets/img/MasterChef.png'
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.youtube.com/channel/UC2EWGw-KBjEReUbXMJEiaCA" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.youtube.com/watch?v=Vl8HzwTkDNc" target="_blank" rel="noopener noreferrer">
         <img src={MasterChef} alt="Logo MasterChef" />
       </a>
       <p>
