@@ -1,5 +1,11 @@
 # MasterChef Flix
 
+# Execução local
+```sh
+$ npm install
+$ npm start
+```
+
 # Link de Acesso
 https://masterchef-flix.vercel.app/
 
